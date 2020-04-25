@@ -1,0 +1,120 @@
+/*  Author :
+    Irsyad Muhamad Al Anshori   1301174648
+*/
+
+@media (min-width: 768px)
+.login-page__box {
+    width: 400px;
+}
+
+.login-page__box {
+    margin-top: 40px;
+    margin-bottom: 70px;
+    display: inline-block;
+    background: #fff;
+    padding: 50px;
+    position: relative;
+    -webkit-box-shadow: 0 1px 10px 0 rgba(0,0,0,.12);
+    box-shadow: 0 1px 10px 0 rgba(0,0,0,.12);
+    border-radius: 4px;
+}
+* {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.login-page {
+    min-height: 80vh;
+    background: #FFF8DC;
+    text-align: center;
+}
+.login-page {
+    min-height: 80vh;
+    background: #FFF8DC;
+    text-align: center;
+}
+
+input.fieldsemail{
+    width: 80%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+input.fieldspasswd{
+    width: 80%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+<style>
+.bGAfCm {
+    font-family: "Source Sans Pro", sans-serif;
+}
+body {
+    color: #333;
+    background: #FFF8DC;
+    letter-spacing: .5px;
+}
+body, html {
+    font-size: 16px;
+}
+body {
+    margin: 0;
+    letter-spacing: .4px;
+}
+<style>
+html {
+    line-height: 1.15;
+    text-size-adjust: 100%;
+}
+html {
+    font-weight: 400;
+    font-family: Source Sans Pro,sans-serif;
+    line-height: 1.2;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+::-webkit-scrollbar {
+    width: 8px;
+    background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+    width: 8px;
+    border-radius: 4px;
+    background-color: #e0e0e0;
+}
+::-webkit-scrollbar-track {
+    border-radius: 0px;
+    background-color: transparent;
+}
+::selection {
+    background: #3cc4e5;
+    color: #fff;
+}
+::selection {
+    background: $selection_bg;
+    color: $selection_color;
+    text-shadow: none;
+}

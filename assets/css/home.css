@@ -1,0 +1,144 @@
+/* 	Author :
+	Daffa Dhiya Ulhaq Hirzillah	130117
+	Irsyad Muhamad Al Anshori	1301174648
+*/
+
+body{
+	background: #FFF8DC;
+/*	color: #FFF8DC;
+	font-family: sans-serif;
+*/
+	font-size:15px;
+}
+ 
+#wrapper{
+	background: #FFF8DC;
+	width: 1100px;
+	margin: 20px auto;
+}
+ 
+#wrapper header{
+	background: #FFF8DC;
+	padding: 20px;	
+}
+ 
+#wrapper header hgroup{
+	float: left;
+	color: #00BFFF;
+}
+#wrapper header nav{	
+	float: right;
+	margin-top: 50px;		
+}
+ 
+#wrapper header nav ul{
+	padding: 0;
+	margin: 0;
+}
+ 
+#wrapper header nav ul li{
+	float: left;
+	list-style: none;	
+}
+ 
+#wrapper header nav ul li a{
+	padding: 15px;	
+	color: black;
+	text-decoration: none;
+}
+
+#wrapper ul li a.beranda:hover{
+	padding: 15px;	
+	color: #007bff;
+	text-decoration: none;
+}
+
+#wrapper ul li a.aboutus:hover{
+	padding: 15px;	
+	color: #007bff;
+	text-decoration: none;
+}
+
+.clear{
+	clear: both;
+}
+
+.img{
+	position: absolute;
+	width: 450px;
+	height: 450px;
+	left: 140px;
+	top: 137px;
+}
+
+h1{
+	position: absolute;
+	width: 670px;
+	height: 150px;
+	left: 600px;
+	top: 260px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	line-height: 75px;
+}
+
+p{
+	position: absolute;
+	width: 670px;
+	height: 153px;
+	left: 600px;
+	top: 332px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 52px;
+}
+
+.btnlogin{
+	position: absolute;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 21px;
+
+	width: 171px;
+	height: 50px;
+	left: 697px;
+	top: 310px;
+
+	background: #FF8C00;
+	color: white;
+	border-radius: 30px;
+}
+
+.btnsignup{
+	position: absolute;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 21px;
+
+	width: 171px;
+	height: 50px;
+	left: 893px;
+	top: 310px;
+
+	background: #FF8C00;
+	color: white;
+	border-radius: 30px;
+}
+
+a:hover{
+	color: #007bff;
+}
+
+section{
+	padding: 20px;
+}
